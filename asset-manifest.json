@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chefao/static/css/main.1714e603.chunk.css",
-    "main.js": "/chefao/static/js/main.6f4a576b.chunk.js",
-    "main.js.map": "/chefao/static/js/main.6f4a576b.chunk.js.map",
+    "main.js": "/chefao/static/js/main.f45d0026.chunk.js",
+    "main.js.map": "/chefao/static/js/main.f45d0026.chunk.js.map",
     "runtime-main.js": "/chefao/static/js/runtime-main.ffcbb08d.js",
     "runtime-main.js.map": "/chefao/static/js/runtime-main.ffcbb08d.js.map",
     "static/js/2.5d439455.chunk.js": "/chefao/static/js/2.5d439455.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.ffcbb08d.js",
     "static/js/2.5d439455.chunk.js",
     "static/css/main.1714e603.chunk.css",
-    "static/js/main.6f4a576b.chunk.js"
+    "static/js/main.f45d0026.chunk.js"
   ]
 }
