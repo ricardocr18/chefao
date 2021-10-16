@@ -6,9 +6,9 @@ import CardSliderTextoHome from '../components/CardSliderTextoHome'
 import '../style/Home.css';
 
 
-
 class Home extends Component {
   render() {
+    
     return (
       <div className="Home">
 

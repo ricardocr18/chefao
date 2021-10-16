@@ -6,7 +6,8 @@ import { useHistory } from 'react-router-dom'
 
 function Header() {
 
-  const history = useHistory('/mentores');
+  const history = useHistory('/mentores', "/cadastro", "/ajuda");
+
   //  function mentoresBtn() {
   //    history.push("/mentores");
   //    window.location.reload();
@@ -17,10 +18,11 @@ function Header() {
      window.location.reload();
    }
 
-   function LoginEhCadastroBtn() {
-    history.push("/cadastro");
-    window.location.reload();
-  }
+  
+  //  function LoginEhCadastroBtn("/cadastro") {
+  //   history.push("/cadastro");
+  //   window.location.reload();
+  // }
   
    
     return (
@@ -37,7 +39,7 @@ function Header() {
             <Nav className="me-auto"></Nav>
             <div>
               <Nav>
-                <Nav.Link className="colors" href="/#ajuda">
+                <Nav.Link className="colors" href="#ajuda">
                   <span>Sobre</span>
                 </Nav.Link>
 
@@ -53,7 +55,7 @@ function Header() {
                 </Nav.Link>
 
                 <Nav.Link href="#deets">
-                  <span onClick={() => LoginEhCadastroBtn()}>Login/Cadastro</span>
+                  <span onClick={() => history.push('/cadastro')}>Login/Cadastro</span>
                 </Nav.Link>
 
               </Nav>
