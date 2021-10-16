@@ -11,7 +11,9 @@
     font-family: "Montserrat", sans-serif;
   }
 
-  .logo a:hover
+  .logo a:hover{
+    cursor: pointer;
+  }
   
   .height {
     height: 100vh;

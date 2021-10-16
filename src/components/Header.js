@@ -2,8 +2,7 @@ import React from "react";
 import { Navbar, Container, Nav } from "react-bootstrap";
 import surface1 from '../img/surface1.png';
 import '../style/Header.css';
-import { useHistory } from 'react-router-dom'
-import Home from '../pages/Home';
+import { useHistory } from 'react-router-dom';
 
 function Header() {
 
@@ -31,8 +30,8 @@ function Header() {
       <Navbar className="headerColor" collapseOnSelect expand="lg">
         <Container>
 
-          <Navbar.Brand className="logo">
-            <img  onClick={() => homeBtn()} src={surface1} alt="" />
+          <Navbar.Brand >
+            <img  className="logo" onClick={() => homeBtn()} src={surface1} alt="" />
           </Navbar.Brand>
 
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -48,9 +47,10 @@ function Header() {
                   <span onClick={() => history.push('/mentores')}>Mentores</span>
                 </Nav.Link> 
                 
-                <Nav.Link href="#deets">
+                <Nav.Link href="#faleConosco">
                   <span>Contato</span>
                 </Nav.Link>
+
                 <Nav.Link href="#deets">
                   <span>FAQ</span>
                 </Nav.Link>
