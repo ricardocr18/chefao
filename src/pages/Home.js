@@ -47,8 +47,8 @@ class Home extends Component {
 
         <div className='contentAjudar'>
 
-          <div id='ajuda'>
-            <h2>Estamos aqui para ajudar você neste momento</h2>
+          <div >
+            <h2 id='ajuda'>Estamos aqui para ajudar você neste momento</h2>
           </div>
           <div className='subTexto'>
             <h3>Seja você um mentor, um aluno ou uma<br /> empresa, temos a solução perfeita para você!</h3>

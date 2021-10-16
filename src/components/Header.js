@@ -3,10 +3,11 @@ import { Navbar, Container, Nav } from "react-bootstrap";
 import surface1 from '../img/surface1.png';
 import '../style/Header.css';
 import { useHistory } from 'react-router-dom'
+import Home from '../pages/Home';
 
 function Header() {
 
-  const history = useHistory('/mentores', "/cadastro", "/ajuda");
+  const history = useHistory('/mentores', "/cadastro");
 
   //  function mentoresBtn() {
   //    history.push("/mentores");
@@ -40,7 +41,8 @@ function Header() {
             <div>
               <Nav>
                 <Nav.Link className="colors" href="#ajuda">
-                  <span>Sobre</span>
+                Sobre
+                  
                 </Nav.Link>
 
                 <Nav.Link>
