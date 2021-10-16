@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/chefao/static/css/main.b831069a.chunk.css",
-    "main.js": "/chefao/static/js/main.a1f9cda3.chunk.js",
-    "main.js.map": "/chefao/static/js/main.a1f9cda3.chunk.js.map",
+    "main.css": "/chefao/static/css/main.1714e603.chunk.css",
+    "main.js": "/chefao/static/js/main.6dbdc881.chunk.js",
+    "main.js.map": "/chefao/static/js/main.6dbdc881.chunk.js.map",
     "runtime-main.js": "/chefao/static/js/runtime-main.ffcbb08d.js",
     "runtime-main.js.map": "/chefao/static/js/runtime-main.ffcbb08d.js.map",
     "static/js/2.5d439455.chunk.js": "/chefao/static/js/2.5d439455.chunk.js",
     "static/js/2.5d439455.chunk.js.map": "/chefao/static/js/2.5d439455.chunk.js.map",
     "index.html": "/chefao/index.html",
-    "static/css/main.b831069a.chunk.css.map": "/chefao/static/css/main.b831069a.chunk.css.map",
+    "static/css/main.1714e603.chunk.css.map": "/chefao/static/css/main.1714e603.chunk.css.map",
     "static/js/2.5d439455.chunk.js.LICENSE.txt": "/chefao/static/js/2.5d439455.chunk.js.LICENSE.txt",
     "static/media/Ellipse6.5189ef9e.png": "/chefao/static/media/Ellipse6.5189ef9e.png",
     "static/media/banner.f655ed45.png": "/chefao/static/media/banner.f655ed45.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.ffcbb08d.js",
     "static/js/2.5d439455.chunk.js",
-    "static/css/main.b831069a.chunk.css",
-    "static/js/main.a1f9cda3.chunk.js"
+    "static/css/main.1714e603.chunk.css",
+    "static/js/main.6dbdc881.chunk.js"
   ]
 }
