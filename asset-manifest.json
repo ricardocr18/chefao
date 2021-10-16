@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chefao/static/css/main.66742843.chunk.css",
-    "main.js": "/chefao/static/js/main.bcfcb29b.chunk.js",
-    "main.js.map": "/chefao/static/js/main.bcfcb29b.chunk.js.map",
+    "main.css": "/chefao/static/css/main.73aa7011.chunk.css",
+    "main.js": "/chefao/static/js/main.d6f88915.chunk.js",
+    "main.js.map": "/chefao/static/js/main.d6f88915.chunk.js.map",
     "runtime-main.js": "/chefao/static/js/runtime-main.ffcbb08d.js",
     "runtime-main.js.map": "/chefao/static/js/runtime-main.ffcbb08d.js.map",
-    "static/js/2.70ec5253.chunk.js": "/chefao/static/js/2.70ec5253.chunk.js",
-    "static/js/2.70ec5253.chunk.js.map": "/chefao/static/js/2.70ec5253.chunk.js.map",
+    "static/js/2.50a9e22f.chunk.js": "/chefao/static/js/2.50a9e22f.chunk.js",
+    "static/js/2.50a9e22f.chunk.js.map": "/chefao/static/js/2.50a9e22f.chunk.js.map",
     "index.html": "/chefao/index.html",
-    "static/css/main.66742843.chunk.css.map": "/chefao/static/css/main.66742843.chunk.css.map",
-    "static/js/2.70ec5253.chunk.js.LICENSE.txt": "/chefao/static/js/2.70ec5253.chunk.js.LICENSE.txt",
+    "static/css/main.73aa7011.chunk.css.map": "/chefao/static/css/main.73aa7011.chunk.css.map",
+    "static/js/2.50a9e22f.chunk.js.LICENSE.txt": "/chefao/static/js/2.50a9e22f.chunk.js.LICENSE.txt",
     "static/media/Ellipse6.5189ef9e.png": "/chefao/static/media/Ellipse6.5189ef9e.png",
     "static/media/banner.f655ed45.png": "/chefao/static/media/banner.f655ed45.png",
     "static/media/foto_form.f6dbe510.png": "/chefao/static/media/foto_form.f6dbe510.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ffcbb08d.js",
-    "static/js/2.70ec5253.chunk.js",
-    "static/css/main.66742843.chunk.css",
-    "static/js/main.bcfcb29b.chunk.js"
+    "static/js/2.50a9e22f.chunk.js",
+    "static/css/main.73aa7011.chunk.css",
+    "static/js/main.d6f88915.chunk.js"
   ]
 }
