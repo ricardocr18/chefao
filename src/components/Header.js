@@ -31,8 +31,8 @@ function Header() {
       <Navbar className="headerColor" collapseOnSelect expand="lg">
         <Container>
 
-          <Navbar.Brand >
-            <img onClick={() => homeBtn()} src={surface1} alt="" />
+          <Navbar.Brand className="logo">
+            <img  onClick={() => homeBtn()} src={surface1} alt="" />
           </Navbar.Brand>
 
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -41,8 +41,7 @@ function Header() {
             <div>
               <Nav>
                 <Nav.Link className="colors" href="#ajuda">
-                Sobre
-                  
+                Sobre                  
                 </Nav.Link>
 
                 <Nav.Link>
