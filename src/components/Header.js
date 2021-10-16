@@ -6,14 +6,14 @@ import { useHistory } from 'react-router-dom'
 
 function Header() {
 
-  const history = useHistory();
-   function mentoresBtn() {
-     history.push("/mentores");
-     window.location.reload();
-   }
+  const history = useHistory('/mentores');
+  //  function mentoresBtn() {
+  //    history.push("/mentores");
+  //    window.location.reload();
+  //  }
   
    function homeBtn() {
-     history.push("/");
+     history.push("/chefao");
      window.location.reload();
    }
 
@@ -42,7 +42,7 @@ function Header() {
                 </Nav.Link>
 
                 <Nav.Link>
-                  <span onClick={() => mentoresBtn()}>Mentores</span>
+                  <span onClick={() => history.push('/mentores')}>Mentores</span>
                 </Nav.Link> 
                 
                 <Nav.Link href="#deets">
