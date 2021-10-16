@@ -24,29 +24,36 @@ class PerfilDoMentor extends Component {
                         <hr />
                         <div className='sobreMim'>
                             <h2>Sobre Mim</h2>
-                        </div>
-                        <p>Meu nome é Raquel e sou formada em Engenhagia Civil, com<br />
-                            Mestrado em Matemática Aplicada e faço Doutorado em,<br />
-                            Cálculo Estrutural. Sou apaixonada por ensinar e por ajudar<br />
-                            pessoas a superar seus desafios.</p>
-                        <hr />
-                        <h2>Minhas Formações</h2>
+                            
+                            <p>Meu nome é Raquel e sou formada em Engenhagia Civil, com<br />
+                                Mestrado em Matemática Aplicada e faço Doutorado em,<br />
+                                Cálculo Estrutural. Sou apaixonada por ensinar e por ajudar<br />
+                                pessoas a superar seus desafios.</p>
+                            <hr />
+                            <h2>Minhas Formações</h2>
 
-                        <p>Graduada em Engenharia Civil pela UFRJ;
-                            Mestra em Matemática Aplicada pela Unicamp;
-                            Doutoranda em Cálculo Estrutural pela USP.</p>
-                        <hr />
-                        <h2>Minhas experiências</h2>
-                        <p>Tenho mais de 8 anos de experiência em docência no ensino Superior, tendo ministrado aulas e workshops em universidades públicas e particulares. Atualmente sou Diretora de Obras da Construtora XPTO, coordenando uma equipe de 15 engenheiros</p>
-                        <hr />
-                        <h2>Minhas Redes Sociais</h2>
+                            <p>Graduada em Engenharia Civil pela UFRJ;<br/>
+                                Mestra em Matemática Aplicada pela Unicamp;<br/>
+                                Doutoranda em Cálculo Estrutural pela USP.</p>
+                            <hr />
+                            <h2>Minhas experiências</h2>
+                            <p>Tenho mais de 8 anos de experiência em docência no ensino<br/>
+                             Superior, tendo ministrado aulas e workshops em universidades<br/>
+                              públicas e particulares.<br/>
+                               Atualmente sou Diretora de Obras da Construtora XPTO,<br/>
+                             coordenando uma equipe de 15 engenheiros</p>
+                            <hr />
+                            <h2>Minhas Redes Sociais</h2>
+
+                            <a href="http://linkedin.com/in/raquel">
+                    <img src="/img/linkedin.png" alt="" />http://linkedin.com/in/raquel</a>
+                <hr />
+                        </div>
 
                     </div>
                 </div>
 
-                <hr /><hr /><a href="http://linkedin.com/in/raquel">
-                    <img src="/img/linkedin.png" alt="" />http://linkedin.com/in/raquel</a>
-                <hr />
+                
                 <h2>Valor da hora do mentor</h2>
                 <p>R$ 60,00 a hora* <br />
                     *Somente para alunos</p>
